@@ -1,0 +1,31 @@
+{
+  "venues": [
+    {
+      "id": 1,
+      "name": "Pristine Chapel"
+      "address": "7541 Mt Zion Blvd. Jonesboro, GA 30236"
+      
+    },
+    {
+      "id": 2,
+      "name": "Morrow Center"
+      "address": "1180 Soutlake Cir. Morrow, GA 30260"
+      
+    },
+    {
+      "id": 3,
+      "name": "Eagles Landing Country Club"
+      "address": "100 Eagles Landing Way Stockbridge, GA 30281"
+      
+    },
+    {
+      "id": 4,
+      "name": "The Howard House"
+      "address": "229 Howard St NE. Atlanta, GA 30317"
+      
+    },
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
